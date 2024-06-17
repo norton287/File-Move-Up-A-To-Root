@@ -37,6 +37,7 @@ Tired of your photos, videos, or documents scattered across countless subfolders
 Imagine your photos are organized like this:
 
 Photos/
+
 ├── Vacation 2023/
 
 │   ├── Beach Day/
