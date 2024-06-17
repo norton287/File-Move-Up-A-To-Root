@@ -7,7 +7,7 @@ Tired of your photos, videos, or documents scattered across countless subfolders
 1. **Scans Deep:**  Dives into every nook and cranny of your chosen directory, no matter how many levels deep.
 2. **Unifies Files:**  Gently lifts all files from their subfolders and places them neatly in the main directory.
 3. **Conflict Prevention:**  Intelligently handles files with the same name, ensuring you don't lose any precious data.
-4. **Network Drive Support:** Can access and consolidate files stored on network drives.
+4. **Network Drive Support:** Can access and consolidate files stored on network drives (Just add the appropriate network drive use statement).
 
 ## Why You'll Love It 💖
 
